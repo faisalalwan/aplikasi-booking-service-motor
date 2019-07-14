@@ -1,4 +1,4 @@
-# aplikasi-booking-service-motor
+# Aplikasi Booking Service Motor
 
 Aplikasi ini berguna untuk memudahkan para konsumen dalam menggunakan jasa dari suatu tempat service motor, dimana ditempat tempat tertentu banyak sekali waktu yang dihabiskan untuk mengantri service motor tsb. dengan adanya aplikasi ini, harapannya para konsumen tidak lagi merasa lelah untuk menunggu dan juga banyak waktu yang tidak terbuang sia - sia. 
 
