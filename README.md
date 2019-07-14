@@ -4,4 +4,4 @@ Aplikasi ini berguna untuk memudahkan para konsumen dalam menggunakan jasa dari 
 
 Berikut file file yang diperlukan untuk menjalankan aplikasi tersebut. aplikasi ini dikembangkan oleh beberapa orang, 
 oleh karena itu beberapa file masih dalam keadaan terpisah. Ada juga beberapa file yang mendukung aplikasi ini, diantaranya
-file file yang berekstensi .png dan .jpg yang berguna untuk menunjang aplikasi tersebut. selamat menikmati :D
+file file yang berekstensi .png dan .jpg yang berguna untuk menunjang aplikasi tersebut, aplikasi ini pun menggunakan bootstrap online, oleh karenanya para pangguna nanti harap tetap terkoneksi ke Internet. Terimakasih, selamat menikmati :D
